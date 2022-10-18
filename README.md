@@ -1,5 +1,5 @@
 # It just main page.
-# This repo only for education and practices ofof NextJS and TailwindCSS
+# This repo only for education and practices of NextJS, TailwindCSS
 # Do not use for commercial purposes !
 
 
